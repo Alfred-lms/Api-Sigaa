@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const sigaa = new Sigaa({
-  url: 'https://sigaa.ifsc.edu.br'
+  url: 'https://si3.ufc.br'
 });
 // Pasta para salvar os arquivos
 const BaseDestiny = path.resolve('.', 'downloads');
